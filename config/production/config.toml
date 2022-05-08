@@ -1,2 +1,5 @@
-baseURL = "https://hbs-skeleton.netlify.app/"
+baseURL = "https://jiachengzhang1.github.io/jiachengz.dev"
 googleAnalytics = ""
+
+[build]
+  writeStats = true
